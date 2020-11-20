@@ -16,3 +16,5 @@ This project explores a few examples of image processing:
 ## Copy Right:
 This project is a computer assignment for the Digital Signal Processing course by Professor M. Akhaee in the spring semester of 2020 at the University of Tehran.
 I did not design the project; however, the solution which is provided in this page is written by me.
+
+NOTE: First extract 'data.rar' and then run the code.
